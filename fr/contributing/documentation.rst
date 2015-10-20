@@ -492,7 +492,7 @@ Exemples
 
 .. tip::
 
-    C'est une astuce utile que vous allez probablement oubliée.
+    C'est une astuce utile que vous allez probablement oublier.
 
 .. note::
 
